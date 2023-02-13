@@ -1,0 +1,27 @@
+{
+  "version": "3.61.27106.0",
+  "course_id": "63vWwtlFzGz_course_id",
+  "title": "stake or rightsholder dragndrop v2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5qbxYYJuCIb",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

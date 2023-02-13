@@ -1,0 +1,32 @@
+{
+  "version": "3.68.28887.0",
+  "course_id": "5VDIvUAqIv8_course_id",
+  "title": "stakeholder matrix v5_FRENCH_WIP",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5mz2VhNkE8p",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5yBGcl7g77r",
+      "title": "explanations",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
